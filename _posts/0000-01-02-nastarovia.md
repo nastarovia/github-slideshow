@@ -7,10 +7,10 @@ title: "Welcome to our second modified slide!"
 esto es de Victor Almendros, claro....
 =======
 "hay que trabajar a partir de lo que hay y no a pesar de lo que hay"
-alx
-allow to go back!
+{alx
+allow to go back!}
 y digámmoslo de una vez: la vida es cenicienta meet Nick Cave meet Homer Simpson the great
 =======
-esto es de Victor Almendros, claro....
+esto es de Victor Almendros, claro.... colado x fantasyTier
 >>>>>>>A master
 
