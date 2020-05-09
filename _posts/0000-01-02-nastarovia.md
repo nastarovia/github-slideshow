@@ -2,5 +2,5 @@
 layout: slide 
 title: "Welcome to our second slide!" 
 ---
-Your text 
-Use the left arrow to go back!
+"hay que trabajar a partir de lo que hay y no a pesar de lo que hay"
+arrow to go back!
